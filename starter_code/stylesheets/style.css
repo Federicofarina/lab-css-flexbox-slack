@@ -8,3 +8,65 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+body {
+    width: 100vw;
+}
+
+.backgroundcolor {
+    background-color: #540B51;
+
+}
+
+nav {
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerbackground {
+    background-color: #540B51;
+
+}
+
+nav ul {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 
+    
+}
+
+.freeTo {
+    text-align: center;
+    color: #ECB12F;
+}
+
+.googleButtons {
+    display: flex;
+    flex-direction: column;
+}
+.signup {
+    margin: 20px;
+    line-height: 40px;
+
+}
+
+.googleButton {
+    margin: 20px;
+    line-height: 40px;
+
+}
+
+.googleLogo {
+    height: 40px;
+    float: left;
+
+}
+
+.signGoogle {
+    vertical-align: middle;
+}
